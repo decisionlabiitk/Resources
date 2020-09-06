@@ -1,6 +1,7 @@
 
 ### MOOCs
 - [Mathematics for Cognitive Neuroscience](https://www.cns.nyu.edu/~eero/math-tools/)
+- [Introductory Neuroscience & Neuro-Instrumentation (NPTEL course)](https://onlinecourses.nptel.ac.in/noc20_ee95/preview)
 
 ### Git and GitHub
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
