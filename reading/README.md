@@ -7,3 +7,6 @@
 
 # Reinforcement Learning
 - [Beyond dichotomies in reinforcement learning](https://www.nature.com/articles/s41583-020-0355-6)
+
+# Miscellaneous
+- [How mood tunes prediction: a neurophenomenological account of mood and its disturbance in major depression](https://pubmed.ncbi.nlm.nih.gov/32818063/)
