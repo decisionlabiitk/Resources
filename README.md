@@ -9,3 +9,4 @@
 
 ### Miscellaneous
 - [Human/Mouse Brain Viewer](https://human.brain-map.org/static/brainexplorer)
+- [Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
